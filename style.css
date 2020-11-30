@@ -1,0 +1,86 @@
+.equal-height-columns {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.equal-column-content {
+	height: 100%;
+}
+
+.img-fluid {
+	height: 100%;
+}
+
+
+
+body {
+    background: #fff;
+    color: #27A1F0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+
+}
+
+h1 {
+    background: #fff;
+    color: #27A1F0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    background: #fff;
+    color: #27A1F0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+h6 {
+    background: #fff;
+    color: #27A1F0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+ /* copia pega del snipplet de faco */
+ul.nav-pills li.nav-item a.nav-link {
+    border-radius: 50% 50%;
+}
+
+/* intento cambio color 1 */
+.pills-contact-tab {
+    background: #fff
+}
+.pills-tab {
+    background: #fff
+}
+
+.inside-interactive-box-text {
+    text-align: center
+    font-weight 300;
+
+
+}
+
+ /* cìrculos ??*/
+.tab-pane {
+    min-height: 50vh;
+    text-align: center;
+    padding: 2.5rem;
+ }
+
+.tab-pane:nth-child(1) {
+    background: #fff;
+ }
+
+.tab-pane:nth-child(2) {
+    background: #fff;
+}
+
+.tab-pane:nth-child(3) {
+    background: #fff;
+}
